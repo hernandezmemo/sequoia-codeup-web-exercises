@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+}
+
+h1, h2 {
+    color:black ;
+    text-decoration: underline;
+}
+
+body {
+    background-color: black;
+    background-size: cover;
+    background-image: url("../images/light1.jpeg");
+    ;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+ul li{
+    list-style: square;
+}
+
+table {
+    font-family: "Arial Black";
+}
+
+td, th {
+    padding: 20px;
+    color:black;
+}
+
+a:link{
+    color:blue;
+}
+
+a:hover{
+    color:red;
+}
+
+
+
+
+
+
+
